@@ -1,0 +1,13 @@
+                                 Face Recognition
+
+
+For creating your own data set you can run the program "takeimages.py".
+For making your own training model your can run "create_your_own_training.py"
+
+
+
+For testing on images run the testimage.py program the test images are provided in folder named Test.
+For live testing run livedetection.py .
+
+Name:Manan Awasthi
+Email:manan6awasthi@gmail.com
